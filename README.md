@@ -1,5 +1,8 @@
 # Zoltraak
 DDoS script for SA:MP server.
-# Usage
 ```
+pip install pysocks
+git clone https://github.com/WazyNgoding/Zoltraak-V1.0.git
+cd Zoltraak-V1.0
+python2 Zyy.py
 ```
