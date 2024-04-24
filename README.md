@@ -1,2 +1,5 @@
-# Zoltraak-V1.0
-Bruh
+# Zoltraak
+DDoS script for SA:MP server.
+# Usage
+```
+```
